@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">People Registry</string>
+
+    <string name="title_activity_salute">Show</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_name_label">Fisrt Name</string>
+    <string name="second_name_label">Second Name</string>
+    <string name="first_last_name_label">Fisrt Last Name</string>
+    <string name="second_last_name_label">Second Last Name</string>
+    <string name="age_label">Age</string>
+    <string name="sex_label">Sex</string>
+    <string name="blood_type_label">Blood Type</string>
+    <string name="male_text">Male</string>
+    <string name="female_text">Female</string>
+    <string name="save_button">Save</string>
+    <string name="erase_button">Erase</string>
+
+    <string-array name="blood_types">
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+    </string-array>
+    <string name="message_select_sex">Must select a sex</string>
+
+</resources>

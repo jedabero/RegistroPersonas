@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro de Personas</string>
+    <string name="action_settings">Opciones</string>
+    <string name="hello_world">Hola mundo!</string>
+    <string name="first_last_name_label">Primer Apellido</string>
+    <string name="first_name_label">Primer Nombre</string>
+    <string name="second_last_name_label">Segundo Apellido</string>
+    <string name="second_name_label">Segundo Nombre</string>
+    <string name="blood_type_label">Tipo de Sangre</string>
+    <string name="age_label">Edad</string>
+    <string name="sex_label">Sexo</string>
+    <string name="female_text">Femenino</string>
+    <string name="male_text">Masculino</string>
+    <string name="erase_button">Borrar</string>
+    <string name="save_button">Guardar</string>
+    <string name="title_activity_salute">Mostrar</string>
+    <string name="message_select_sex">Debe seleccionar un sexo</string>
+
+</resources>
